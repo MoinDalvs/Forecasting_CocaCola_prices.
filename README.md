@@ -4,6 +4,11 @@ Prepare a document for each model explaining how many dummy variables you have c
 ![newplot (1)](https://user-images.githubusercontent.com/99672298/179345435-8ac21771-398a-429d-ae7c-2e74a267a66e.png)
 ![image](https://user-images.githubusercontent.com/99672298/179345550-492cb811-3c00-4c1c-9cc0-ba2a7929ba0a.png)
 ![image](https://user-images.githubusercontent.com/99672298/179345402-184e656c-c6fa-4dfd-844c-604657eba8de.png)
+### Sampling 
+### Linear interpolation
+You draw a straight line joining the next and previous points of the missing values in the data.\
+![image](https://user-images.githubusercontent.com/99672298/179350127-1a1d4c69-e71e-41b9-b328-426481e7fb11.png)
+![image](https://user-images.githubusercontent.com/99672298/179350144-1d11e66e-913b-493e-aa59-bdf2adbb77e9.png)
 ![image](https://user-images.githubusercontent.com/99672298/179345410-aefabfa5-c741-435a-aaf1-c35827d65e9d.png)
 ![image](https://user-images.githubusercontent.com/99672298/179345415-a1c60ef7-a73d-4cd6-9961-3737ff75c34c.png)
 ![image](https://user-images.githubusercontent.com/99672298/179345457-494029ec-6240-4afe-9edd-0b39dbd5792b.png)
